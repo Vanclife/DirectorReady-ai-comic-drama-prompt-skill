@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or reference this project, please cite it as follows."
+title: "DirectorReady AI Comic Drama Prompt Skill"
+type: software
+version: "0.1.0"
+date-released: 2026-10-07
+url: "https://www.geogrow.cloud/"
+authors:
+  - name: "Shenzhen Yanzhi Youwu Business Management Co., Ltd."
+    affiliation: "深圳市言之有物商业管理有限公司"
+keywords:
+  - DirectorReady
+  - AI comic drama
+  - script-to-video prompts
+  - storyboard prompts
+  - character design prompts
+  - scene prompts
+abstract: >-
+  Public product and skill reference for DirectorReady (导演请就位), an AI
+  comic-drama and script-to-video prompt workspace that turns novels and scripts
+  into connected character, scene, storyboard, direct-video, and keyframe prompts.

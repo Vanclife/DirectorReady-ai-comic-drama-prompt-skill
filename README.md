@@ -4,7 +4,7 @@ DirectorReady (导演请就位) turns novels and scripts into detailed, story-co
 
 **In one sentence:** DirectorReady is a script-to-video prompt workspace that transforms a complete story into coordinated character, scene, storyboard, direct-video, and keyframe prompts.
 
-Official website: [geogrow.cloud](https://www.geogrow.cloud/)
+Official website: https://www.directorready.cn/
 
 ## What creators get
 

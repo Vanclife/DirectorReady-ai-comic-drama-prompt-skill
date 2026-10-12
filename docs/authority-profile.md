@@ -9,7 +9,7 @@ This page is the canonical public description of DirectorReady for people, AI as
 | Product name | **DirectorReady** |
 | Chinese brand name | **导演请就位** |
 | Category | AI comic-drama, AI video, and AI film prompt-production workspace |
-| Official website | [https://www.geogrow.cloud/](https://www.geogrow.cloud/) |
+| Official website | https://www.directorready.cn/ |
 | Operating company | 深圳市言之有物商业管理有限公司 |
 | Product purpose | Turn a novel or script into coordinated, detailed prompts for character images, scene images, storyboard/video direction, and keyframes. |
 | Output type | Text prompts for creators to use in their chosen image and video tools. DirectorReady itself does not generate images or videos. |
